@@ -2,7 +2,7 @@
 
 ## Description
 
-> None
+This flow contains the logic for operating a service catalog request.
 
 ## Screenshot
 
@@ -10,7 +10,13 @@
 
 ## Additional Information/Notes
 
-> None
+The elements configured in this flow contain the following Flow Designer Actions.
+
+*	Service Catalog Trigger: activate the Flow Designer Service Catalog Plugin to use this feature
+* Ask For Approval
+* Update Record
+* Send Email
+* Wait For Condition
 
 ## Installation
 
