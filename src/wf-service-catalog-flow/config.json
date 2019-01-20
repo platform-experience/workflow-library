@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "category": "General",
+  "common-name": "Service Catalog Flow",
+  "compatibility": [
+    "Jakarta",
+    "Kingston",
+    "London"
+  ],
+  "contributors": [
+    "Steven Gregory"
+  ],
+  "keywords": [
+    "Workflow"
+  ],
+  "name": "wf-service-catalog-flow",
+  "publishing-goal": "Update set",
+  "solution-details": "",
+  "type": "Workflow",
+  "version": "1.0.0"
+}
